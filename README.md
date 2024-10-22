@@ -19,8 +19,8 @@ You should:
  - Analyze the factors that impact churn most
  - Draw basic conclusions and develop recommendations on how to improve customer service:
    
-          - Identify target groups
+      - Identify target groups
    
-          - Suggest measures to cut churn
+      - Suggest measures to cut churn
    
-          - Describe any other patterns you see with respect to interaction with customers
+      - Describe any other patterns you see with respect to interaction with customers
