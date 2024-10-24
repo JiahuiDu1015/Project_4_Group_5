@@ -24,3 +24,9 @@ You should:
       - Suggest measures to cut churn
    
       - Describe any other patterns you see with respect to interaction with customers
+  
+   # Data
+
+   https://www.kaggle.com/datasets/ellanihill/model-fitness-customer-churn
+
+   
