@@ -3,7 +3,7 @@
 ![image](https://github.com/user-attachments/assets/89e01c71-358e-4214-be72-02ad85cd6564)
 
 
-# Project proporsal
+# Project proposal
 
 The gym chain One Fitness is in the process of developing a customer interaction strategy driven by analytical data. One of the most significant challenges that gyms and similar services encounter is customer churn. But how can you determine if a customer has disengaged? You can calculate churn by tracking those who cancel their accounts or fail to renew their memberships. However, sometimes it’s not immediately clear that a client has left; they may quietly withdraw their engagement.
 
