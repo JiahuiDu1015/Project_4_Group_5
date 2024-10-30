@@ -25,50 +25,54 @@ You should:
    
       - Describe any other patterns you see with respect to interaction with customers
 
+# **Info / Credits:**
+
+**Team**
+ - [Evgeniia Kozodeeva](https://github.com/EvgeniiaKei)
+
+
+
+
 # Data
 
    https://www.kaggle.com/datasets/ellanihill/model-fitness-customer-churn
 
-# Data description
-
-**Churn** - outflow in the current month;
-
-Client data for the previous month before checking the outflow:
-
-**gender** - man;
-
-**Near_Location** - living or working in the area where the fitness center is located;
-
-**Partner** - an employee of the club's partner company (cooperation with companies whose employees can receive discounts - in this case, the fitness center stores information about the client's employer);
-
-**Promo_friends** - the fact of the initial registration as part of the “bring a friend” promotion (used a promo code from a friend when payed for the first subscription);
-
-**Phone** - the presence of a contact phone;
-
-**Age** - age;
-
-**Lifetime** - time since the first visit to the fitness center (in months).
-
-Information based on the log of visits, purchases and information about the current status of the client's subscription:
-
-**Contract_period** - duration of the current active subscription (1 month, 3 months, 6 months, a year);
-
-**Month_to_end_contract** — period until the end of the current active subscription (in months);
-
-**Group_visits** - the fact of visiting group classes;
-
-**Avg_class_frequency_total** - the average frequency of visits per week for the entire time since the start of the subscription;
-
-**Avg_class_frequency_current_month** - average frequency of visits per week for the previous month;
-
-**Avg_additional_charges_total** - total amount spent on the other services in the fitness center: cafe, sports goods, cosmetic and massage salon.
-
 # Navigation
-Gym_churning_colab - jupyter notebook file, created in Google Colab, that contains the queries.
+gym_churning_colab - jupyter notebook file, created in Google Colab, that contains the queries.
 
-# Notes
-The model utilises data retrieved from Spark
+**Tools**
+
+- Jupyter Notebook
+- Python Pandas
+- Python Matplotlib
+
+# Environment for Google Colab
+ - The model utilises data retrieved from Spark
 check SPARK_VERSION (spark_version = 'spark-3.5.3')
+ - Install needed packages pip install
+       - python
+       - scikit-learn
+       - pandas
+       - numpy
+       - sklearn
+       - flask
+       - hvplot
+       - dask[dataframe]
+       - lazypredict
+# Machine Learning Models   
+
+**Model 1: LazyPredict**
+
+
+**Model 2: AdaBoostClassifier**
+
+
+**Model 3: Random Forest Classifier (optimal)**
+
+
+# Clustering - unsupervised learning 
+
+
 
 # Group Presentation
 
