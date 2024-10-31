@@ -117,7 +117,7 @@ Overall, the user clustering model provides a valuable tool for the gym to bette
 
 # Group Presentation
 
-[Presentation](Slides group 5 .pptx)
+[Presentation]([Slides group 5 .pptx](https://github.com/JiahuiDu1015/Project_4_Group_5/blob/main/Slides%20group%205%20.pptx))
 
 # Conclusion
 
