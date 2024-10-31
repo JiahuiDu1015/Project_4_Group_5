@@ -91,7 +91,8 @@ We compare our result with Random Forest
 
 High precision roc_au 97.4%. we want to find out the feature importance (features of why people stay), better than ada because Ada is only good if the relatonship between the churn and feature is straighforward but RF can handle more complex relatonships because we are dealing with human behaviours which is complex
 
-<img width="307" alt="image" src="https://github.com/user-attachments/assets/d62c51a0-6755-459a-8a5c-ca89872a2a23">
+<img width="741" alt="image" src="https://github.com/user-attachments/assets/a414d7fb-e99a-4285-8aaf-0ec8de5e68c9">
+
 
 
 # Clustering - unsupervised learning 
