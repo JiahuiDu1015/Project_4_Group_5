@@ -30,7 +30,9 @@ You should:
 **Team**
  - [Evgeniia Kozodeeva](https://github.com/EvgeniiaKei)
  - [Hung Lim(Hansen)](https://github.com/HansLimq)
-
+ - [Mark Krishna](
+ - [Han Wang]()
+ - [Jiahuib Du(Mary)]()
 
 
 
@@ -114,6 +116,15 @@ Overall, the user clustering model provides a valuable tool for the gym to bette
 
 # Conclusion
 
+In our analysis of client attendance at the gym, we aimed to identify key factors contributing to client churn and develop an effective predictive model. After evaluating various modeling approaches, we concluded that the Random Forest model provided the best results for predicting churn.
+
+The Random Forest algorithm excels in handling the complex interactions and nonlinear relationships often present in client behavior data. By leveraging multiple decision trees, this model effectively reduces overfitting and enhances the accuracy of predictions. Our analysis revealed significant predictors of churn, such as attendance frequency, membership duration, and engagement with gym services.
+
+Implementing this model allows us to proactively identify at-risk clients and tailor retention strategies accordingly. By focusing on the specific needs and behaviors of these clients, we can improve customer satisfaction, enhance loyalty, and ultimately reduce churn rates.
+
+Moving forward, we recommend continuous monitoring and refining of the model to adapt to changing client dynamics and incorporate additional data sources as they become available. Overall, the insights gained from this project not only highlight the effectiveness of the Random Forest model but also provide a solid foundation for data-driven decision-making in our client retention strategies.
+
 # Recommendations
 
-   
+•   In future we will use CRM System to create more features so we can predict our model better.
+•   Maintain discussions with membership team on what the key features are for members to churn.   
