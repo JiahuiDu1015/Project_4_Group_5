@@ -30,7 +30,7 @@ You should:
 **Team**
  - [Evgeniia Kozodeeva](https://github.com/EvgeniiaKei)
  - [Hung Lim(Hansen)](https://github.com/HansLimq)
- - [Mark Krishna](
+ - [Mark Krishna]()
  - [Han Wang]()
  - [Jiahuib Du(Mary)]( https://github.com/JiahuiDu1015/Project_4_Group_5)
 
@@ -94,7 +94,6 @@ High precision roc_au 97.4%. we want to find out the feature importance (feature
 <img width="307" alt="image" src="https://github.com/user-attachments/assets/d62c51a0-6755-459a-8a5c-ca89872a2a23">
 
 
-
 # Clustering - unsupervised learning 
 
 As we can see from the dendrogram, the system allows us to divide clients into 3 clusters. The result shows in the next slide the churn rate for each of the four identified customer clusters. The churn_rate column shows the proportion of customers in each cluster who churned.  Cluster 2 has the highest churn rate at 64%,  Clusters 1 and 3 have significantly lower churn rates at 13%. Cluster 0 has the lowest churn rate. This information can be used to identify which clusters are at higher risk of churning and may require additional attention and retention strategies.
@@ -117,7 +116,7 @@ Overall, the user clustering model provides a valuable tool for the gym to bette
 
 # Group Presentation
 
-[Presentation]([Slides group 5 .pptx](https://github.com/JiahuiDu1015/Project_4_Group_5/blob/main/Slides%20group%205%20.pptx))
+[Presentation](https://github.com/JiahuiDu1015/Project_4_Group_5/blob/main/Slides%20group%205%20.pptx))
 
 # Conclusion
 
