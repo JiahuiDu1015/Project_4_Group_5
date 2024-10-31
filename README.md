@@ -32,7 +32,7 @@ You should:
  - [Hung Lim(Hansen)](https://github.com/HansLimq)
  - [Mark Krishna](
  - [Han Wang]()
- - [Jiahuib Du(Mary)]()
+ - [Jiahuib Du(Mary)]( https://github.com/JiahuiDu1015/Project_4_Group_5)
 
 
 
@@ -89,6 +89,9 @@ We compare our result with Random Forest
 
 **Model 3: Random Forest Classifier (optimal)**
 
+<img width="307" alt="image" src="https://github.com/user-attachments/assets/d62c51a0-6755-459a-8a5c-ca89872a2a23">
+
+
 
 # Clustering - unsupervised learning 
 
@@ -126,5 +129,9 @@ Moving forward, we recommend continuous monitoring and refining of the model to 
 
 # Recommendations
 
-•   In future we will use CRM System to create more features so we can predict our model better.
+
+•   In future we will use CRM System to create more features so we can predict our model better  and analyze comprehensive data on client interactions, preferences, and feedback. This system can help create additional features that provide deeper insights into factors influencing churn. Key data points to consider include communication history, client satisfaction scores, and service usage patterns.
+
 •   Maintain discussions with membership team on what the key features are for members to churn.   
+
+•   Staff Training: Provide training for staff on the importance of data-driven decisions and how to interpret model outputs. Educating the team on churn predictors will empower them to implement proactive engagement strategies.
